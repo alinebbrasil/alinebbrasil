@@ -1,6 +1,6 @@
 # Olá, eu sou a Aline
 
-Atuo com análise de dados e construção de pipelines, desenvolvendo projetos completos com dados reais, desde a ingestão até a visualização.
+Atuo com análise de dados e construção de pipelines, desenvolvendo projetos end-to-end com dados reais, desde a ingestão até a visualização.
 
 Tenho foco em SQL, Python e estruturação de dados para análise e tomada de decisão.
 
@@ -16,7 +16,9 @@ Tenho foco em SQL, Python e estruturação de dados para análise e tomada de de
 
 ---
 
-## Projetos em destaque
+## Projeto em destaque
+
+![Dashboard](https://github.com/alinebbrasil/fuel-price-analytics-pipeline/blob/main/images/dashboard_trend.png)
 
 ### Fuel Price Analytics Pipeline
 
@@ -30,6 +32,8 @@ Pipeline completo de dados com análise de preços de combustíveis no Brasil.
 🔗 https://github.com/alinebbrasil/fuel-price-analytics-pipeline
 
 ---
+
+## Outros projetos
 
 ### Taxi Data Pipeline
 
