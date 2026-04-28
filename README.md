@@ -1,24 +1,57 @@
 # Olá, eu sou a Aline
 
-Sou focada em análise de dados e construção de pipelines, com experiência em projetos end-to-end utilizando dados reais.
+Atuo com análise de dados e construção de pipelines, desenvolvendo projetos completos com dados reais, desde a ingestão até a visualização.
+
+Tenho foco em SQL, Python e estruturação de dados para análise e tomada de decisão.
+
+---
 
 ## Principais habilidades
 
-- SQL (análise e consultas)
-- Python (ETL e manipulação de dados)
-- Construção de pipelines de dados
-- Visualização com Streamlit
+* SQL (consultas, agregações e análise de dados)
+* Python (ETL e manipulação de dados com Pandas)
+* Construção de pipelines de dados
+* Modelagem e organização de dados
+* Visualização com Streamlit
+
+---
 
 ## Projetos em destaque
 
-- Fuel Price Analytics Pipeline  
-  Pipeline completo com análise de preços de combustíveis no Brasil
+### Fuel Price Analytics Pipeline
 
-- Taxi Data Pipeline  
-  Pipeline de dados com foco em ingestão e transformação
+Pipeline completo de dados com análise de preços de combustíveis no Brasil.
 
-- Crypto Data Pipeline  
-  Coleta e visualização de dados em tempo real
+* Coleta e tratamento de dados públicos da ANP
+* Armazenamento em banco SQLite
+* Análises de negócio com SQL
+* Dashboard interativo com Streamlit
+
+🔗 https://github.com/alinebbrasil/fuel-price-analytics-pipeline
+
+---
+
+### Taxi Data Pipeline
+
+Pipeline de dados com foco em ingestão, transformação e armazenamento.
+
+🔗 https://github.com/alinebbrasil/taxi-data-pipeline
+
+---
+
+### Crypto Data Pipeline
+
+Pipeline de coleta e visualização de dados em tempo quase real.
+
+🔗 https://github.com/alinebbrasil/crypto-data-pipeline
+
+---
+
+## Objetivo
+
+Busco oportunidades para atuar com análise de dados ou engenharia de dados, aplicando conhecimentos em SQL, Python e construção de pipelines.
+
+---
 
 ## Contato
 
