@@ -12,7 +12,7 @@ Tenho foco em SQL, Python e estruturação de dados para análise e tomada de de
 * Python (ETL e manipulação de dados com Pandas)
 * Construção de pipelines de dados
 * Modelagem e organização de dados
-* Visualização com Streamlit
+* Visualização com Streamlit e Power BI
 
 ---
 
