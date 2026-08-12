@@ -1,26 +1,25 @@
 # Aline Bastos Brasil
 
-Sou formada em Engenharia Mecânica e estou em transição para a área de Dados, com foco em Análise e Engenharia de Dados.
+Formada em Engenharia Mecânica, em transição para a área de Dados com foco em **Engenharia e Análise de Dados**.
 
-Atualmente desenvolvo projetos práticos envolvendo ETL, modelagem de dados, SQL e dashboards, buscando construir soluções próximas de cenários reais.
+Desenvolvo pipelines, modelos preditivos e dashboards aplicando o rigor técnico de ambientes de alta criticidade a projetos de dados de ponta a ponta — da ingestão à geração de insight para o negócio.
 
 ---
 
 ## Projeto em destaque
 
-### Crypto Real-Time Data Pipeline
+### Previsão de Inadimplência em Crédito
 
-Pipeline de dados com ingestão incremental de criptomoedas, estruturado em camadas RAW, PROCESSED e ANALYTICS, com dashboard em tempo quase real.
+Case técnico real para um processo seletivo de Cientista de Dados Júnior: o desafio de negócio era prever, entre clientes em cobrança, quais tinham alta probabilidade de atraso igual ou superior a 5 dias — permitindo priorizar ações de cobrança e reduzir perdas.
 
-* Coleta contínua de dados via API
-* Armazenamento em múltiplas camadas (JSON e Parquet)
-* Transformação e criação de métricas analíticas
-* Pipeline automatizado com execução sequencial
-* Dashboard com atualização automática (Streamlit)
+- Engenharia de atributos e split out-of-time, simulando um cenário real de produção
+- Baseline com Regressão Logística e modelo principal HistGradientBoostingClassifier
+- Interpretação via permutation importance, tornando o modelo auditável para o negócio
+- Resultado: aprovada para a etapa seguinte do processo seletivo
 
-Tecnologias: Python, Pandas, Parquet, API, Streamlit, ETL
+Tecnologias: Python, Pandas, Scikit-learn, HistGradientBoostingClassifier
 
-https://github.com/alinebbrasil/crypto-real-time-data-pipeline
+<https://github.com/alinebbrasil/previsao-inadimplencia-credito>
 
 ---
 
@@ -28,57 +27,57 @@ https://github.com/alinebbrasil/crypto-real-time-data-pipeline
 
 ### Banking Data Warehouse & Dashboard
 
-Projeto de Data Warehouse com modelagem dimensional (Star Schema) e dashboard em Power BI para monitoramento de transações financeiras.
+Data Warehouse com modelagem dimensional (Star Schema) para monitoramento de transações financeiras, construído para demonstrar um fluxo completo de engenharia de dados até a análise.
 
-* Modelagem dimensional (fato e dimensões)
-* Consultas SQL para análise
-* Dashboard com indicadores financeiros
+- Modelagem dimensional (tabelas fato e dimensão)
+- Consultas SQL analíticas
+- Dashboard em Power BI com indicadores financeiros
 
-https://github.com/alinebbrasil/banking-data-warehouse
+Tecnologias: Spark, dbt, DuckDB, SQL, Power BI
 
----
+<https://github.com/alinebbrasil/banking-data-warehouse>
+
+### Crypto Real-Time Data Pipeline
+
+Pipeline com ingestão contínua de dados de criptomoedas, estruturado em camadas (RAW, PROCESSED, ANALYTICS), com dashboard atualizado quase em tempo real.
+
+- Coleta contínua de dados via API
+- Armazenamento em múltiplas camadas (JSON e Parquet)
+- Transformação e criação de métricas analíticas
+- Dashboard com atualização automática (Streamlit)
+
+Tecnologias: Python, Pandas, Parquet, APIs, Streamlit, ETL
+
+<https://github.com/alinebbrasil/crypto-real-time-data-pipeline>
 
 ### Fuel Price Analytics Pipeline
 
-Pipeline de dados para análise de preços de combustíveis, com ingestão, tratamento e visualização de dados.
+Pipeline de dados para análise de preços de combustíveis (gasolina, etanol e diesel), da ingestão à visualização.
 
-* Pipeline de ingestão e transformação
-* Estruturação de dados para análise
-* Visualização com Streamlit
+- Pipeline de ingestão e transformação
+- Estruturação de dados para análise
+- Visualização com Streamlit
 
-https://github.com/alinebbrasil/fuel-price-analytics-pipeline
-
----
-
-### E-commerce SQL Analysis
-
-Análise de dados de e-commerce utilizando SQL para explorar comportamento de vendas e clientes.
-
-* Queries analíticas em SQL
-* Análise de métricas de negócio
-
-https://github.com/alinebbrasil/ecommerce-sql-analysis
+<https://github.com/alinebbrasil/fuel-price-analytics-pipeline>
 
 ---
 
-## Habilidades
+## Competências técnicas
 
-Python (pandas)
-SQL
-Power BI
-ETL e Data Pipelines
-Modelagem de Dados (Star Schema)
-Análise de Dados
-APIs
+**Linguagens:** Python, SQL
+**Engenharia de Dados:** ETL, Apache Airflow, Docker, dbt, Spark/PySpark, Apache Kafka
+**Dados & Modelagem:** PostgreSQL, Snowflake, Data Warehouse, Modelagem de Dados (Star Schema), NoSQL
+**BI & Visualização:** Power BI, Streamlit
+**Machine Learning:** Scikit-learn
 
 ---
 
 ## Objetivo
 
-Busco oportunidades em Análise de Dados ou Engenharia de Dados, com interesse em trabalhar com pipelines, transformação de dados e geração de insights.
+Buscando minha primeira oportunidade como **Engenheira ou Analista de Dados Júnior**, 100% remota. Interesse em pipelines, transformação de dados e modelos que gerem valor real para o negócio.
 
 ---
 
 ## Contato
 
-LinkedIn: https://www.linkedin.com/in/alinebbrasildata/
+LinkedIn: <https://www.linkedin.com/in/alinebbrasildata/>
